@@ -1,8 +1,2 @@
-# Hello World Example
-
-Starts a FreeRTOS task to print "Hello World"
-
-See the README.md file in the upper level 'examples' directory for more information about examples.
-# atas-node2-gps
 # atas-node2-display
-# atas-node2-display
+Test: Use the ESP32 to control a Waveshare 1.54 ePaper Display
