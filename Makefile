@@ -3,6 +3,6 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := atas-node2-gps
+PROJECT_NAME := atas-node2-display
 
 include $(IDF_PATH)/make/project.mk
