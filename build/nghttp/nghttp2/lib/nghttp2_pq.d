@@ -33,7 +33,7 @@ nghttp2/lib/nghttp2_pq.o: \
  /Users/martinschmidli/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_int.h \
  /Users/martinschmidli/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h \
  /Users/martinschmidli/esp/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h
 
@@ -103,7 +103,7 @@ nghttp2/lib/nghttp2_pq.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h:
 

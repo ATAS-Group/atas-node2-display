@@ -1,7 +1,7 @@
 pm_trace.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/./pm_trace.c \
  /Users/martinschmidli/esp/esp-idf/components/esp32/./pm_trace.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/driver/include/driver/gpio.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_err.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
@@ -43,7 +43,7 @@ pm_trace.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/./pm_trace.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/driver/include/driver/gpio.h:
 

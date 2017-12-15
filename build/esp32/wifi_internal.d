@@ -21,7 +21,7 @@ wifi_internal.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/alloca.h \
  /Users/martinschmidli/esp/esp-idf/components/heap/include/multi_heap.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h:
 
@@ -65,5 +65,5 @@ wifi_internal.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/heap/include/multi_heap.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 /Users/martinschmidli/esp/esp-idf/components/esp32/./wifi_internal.c:

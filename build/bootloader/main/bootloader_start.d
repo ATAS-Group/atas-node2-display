@@ -2,7 +2,7 @@ bootloader_start.o: \
  /Users/martinschmidli/esp/esp-idf/components/bootloader/subproject/main/./bootloader_start.c \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -50,7 +50,7 @@ bootloader_start.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

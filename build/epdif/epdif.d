@@ -1,6 +1,6 @@
 epdif.o: \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epdif/./epdif.cpp \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epdif/include/epdif.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/components/epdif/./epdif.cpp \
+ /Users/martinschmidli/esp/projects/atas-node2-display/components/epdif/include/epdif.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/reent.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -16,7 +16,7 @@ epdif.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -91,7 +91,7 @@ epdif.o: \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log_internal.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epdif/include/epdif.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/components/epdif/include/epdif.h:
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
@@ -123,7 +123,7 @@ epdif.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
@@ -270,4 +270,4 @@ epdif.o: \
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h:
 
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log_internal.h:
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epdif/./epdif.cpp:
+/Users/martinschmidli/esp/projects/atas-node2-display/components/epdif/./epdif.cpp:

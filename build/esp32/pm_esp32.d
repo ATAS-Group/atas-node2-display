@@ -32,7 +32,7 @@ pm_esp32.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/sched.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_pm.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp32/pm.h \
@@ -159,7 +159,7 @@ pm_esp32.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h:
 

@@ -9,7 +9,7 @@ library/ssl_pkey.o: \
  /Users/martinschmidli/esp/esp-idf/components/openssl/include/internal/ssl_methods.h \
  /Users/martinschmidli/esp/esp-idf/components/openssl/include/internal/ssl_dbg.h \
  /Users/martinschmidli/esp/esp-idf/components/openssl/include/platform/ssl_opt.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/openssl/include/platform/ssl_port.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_types.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/cdefs.h \
@@ -61,7 +61,7 @@ library/ssl_pkey.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/openssl/include/platform/ssl_opt.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/openssl/include/platform/ssl_port.h:
 

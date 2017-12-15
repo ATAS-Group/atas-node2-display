@@ -9,7 +9,7 @@ spi_flash_rom_patch.o: \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/spi_flash.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/spi_reg.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 
@@ -29,5 +29,5 @@ spi_flash_rom_patch.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/spi_reg.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 /Users/martinschmidli/esp/esp-idf/components/spi_flash/./spi_flash_rom_patch.c:

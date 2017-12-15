@@ -28,7 +28,7 @@ ulp_macro.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
@@ -96,7 +96,7 @@ ulp_macro.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h:
 

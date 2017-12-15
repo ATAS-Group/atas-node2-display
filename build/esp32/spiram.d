@@ -16,7 +16,7 @@ spiram.o: /Users/martinschmidli/esp/esp-idf/components/esp32/./spiram.c \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/lock.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/string.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_err.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdio.h \
@@ -121,7 +121,7 @@ spiram.o: /Users/martinschmidli/esp/esp-idf/components/esp32/./spiram.c \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/string.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h:
 

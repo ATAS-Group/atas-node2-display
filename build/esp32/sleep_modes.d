@@ -28,7 +28,7 @@ sleep_modes.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/sched.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/stdio.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdlib.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/alloca.h \
@@ -160,7 +160,7 @@ sleep_modes.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdlib.h:
 

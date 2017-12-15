@@ -8,7 +8,7 @@ src/bootloader_sha.o: \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/dport_access.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_dport_access.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/hwcrypto_reg.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h
@@ -29,7 +29,7 @@ src/bootloader_sha.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_dport_access.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/hwcrypto_reg.h:
 

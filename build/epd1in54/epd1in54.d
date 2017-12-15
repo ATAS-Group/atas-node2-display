@@ -1,6 +1,6 @@
 epd1in54.o: \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epd1in54/./epd1in54.cpp \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epd1in54/include/epd1in54.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/components/epd1in54/./epd1in54.cpp \
+ /Users/martinschmidli/esp/projects/atas-node2-display/components/epd1in54/include/epd1in54.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/reent.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -16,7 +16,7 @@ epd1in54.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -79,7 +79,7 @@ epd1in54.o: \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/task.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/limits.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/list.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epdif/include/epdif.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/components/epdif/include/epdif.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/string.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/string.h \
  /Users/martinschmidli/esp/esp-idf/components/driver/include/driver/spi_master.h \
@@ -92,7 +92,7 @@ epd1in54.o: \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log_internal.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epd1in54/include/epd1in54.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/components/epd1in54/include/epd1in54.h:
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOS.h:
 
@@ -124,7 +124,7 @@ epd1in54.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 
@@ -250,7 +250,7 @@ epd1in54.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/list.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epdif/include/epdif.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/components/epdif/include/epdif.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/string.h:
 
@@ -273,4 +273,4 @@ epd1in54.o: \
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h:
 
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log_internal.h:
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/components/epd1in54/./epd1in54.cpp:
+/Users/martinschmidli/esp/projects/atas-node2-display/components/epd1in54/./epd1in54.cpp:

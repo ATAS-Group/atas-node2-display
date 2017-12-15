@@ -1,6 +1,6 @@
 src/secure_boot_signatures.o: \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/src/secure_boot_signatures.c \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_err.h \
  /Users/martinschmidli/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
@@ -19,7 +19,7 @@ src/secure_boot_signatures.o: \
  /Users/martinschmidli/esp/esp-idf/components/micro-ecc/micro-ecc/uECC.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/sha.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h:
 

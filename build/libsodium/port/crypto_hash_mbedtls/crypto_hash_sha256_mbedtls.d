@@ -22,7 +22,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha256_mbedtls.o: \
  /Users/martinschmidli/esp/esp-idf/components/libsodium/libsodium/src/libsodium/include/sodium/export.h \
  /Users/martinschmidli/esp/esp-idf/components/mbedtls/include/mbedtls/sha256.h \
  /Users/martinschmidli/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/mbedtls/include/mbedtls/check_config.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/limits.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/string.h \
@@ -72,7 +72,7 @@ port/crypto_hash_mbedtls/crypto_hash_sha256_mbedtls.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/mbedtls/include/mbedtls/check_config.h:
 

@@ -16,7 +16,7 @@ heap_caps.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/cdefs.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/string.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdlib.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/stdlib.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/alloca.h \
@@ -118,7 +118,7 @@ heap_caps.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdlib.h:
 

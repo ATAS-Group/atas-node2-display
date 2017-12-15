@@ -1,6 +1,6 @@
 spiram_psram.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/./spiram_psram.c \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/string.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/_ansi.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/newlib.h \
@@ -59,7 +59,7 @@ spiram_psram.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/lldesc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/queue.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/string.h:
 

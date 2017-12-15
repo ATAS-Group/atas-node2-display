@@ -11,7 +11,7 @@ xtensa_init.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/config/system.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/simcall.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
@@ -63,7 +63,7 @@ xtensa_init.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

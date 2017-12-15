@@ -27,7 +27,7 @@ bt.o: /Users/martinschmidli/esp/esp-idf/components/bt/./bt.c \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h \
  /Users/martinschmidli/esp/esp-idf/components/heap/include/esp_heap_caps.h \
  /Users/martinschmidli/esp/esp-idf/components/heap/include/multi_heap.h \
@@ -155,7 +155,7 @@ bt.o: /Users/martinschmidli/esp/esp-idf/components/bt/./bt.c \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h:
 

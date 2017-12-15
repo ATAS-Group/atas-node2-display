@@ -18,7 +18,7 @@ vfs.o: /Users/martinschmidli/esp/esp-idf/components/vfs/./vfs.c \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/string.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/string.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/errno.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/fcntl.h \
@@ -83,7 +83,7 @@ vfs.o: /Users/martinschmidli/esp/esp-idf/components/vfs/./vfs.c \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h:
 

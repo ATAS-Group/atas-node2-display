@@ -9,7 +9,7 @@ src/crypto/aes-internal-enc.o: \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_assert.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdlib.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/ieeefp.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/_ansi.h \
@@ -129,7 +129,7 @@ src/crypto/aes-internal-enc.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdlib.h:
 

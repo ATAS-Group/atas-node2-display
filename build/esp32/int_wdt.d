@@ -1,5 +1,5 @@
 int_wdt.o: /Users/martinschmidli/esp/esp-idf/components/esp32/./int_wdt.c \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/features.h \
@@ -87,7 +87,7 @@ int_wdt.o: /Users/martinschmidli/esp/esp-idf/components/esp32/./int_wdt.c \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_dport_access.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_int_wdt.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h:
 

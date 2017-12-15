@@ -32,7 +32,7 @@ src/crypto/crypto_internal-rsa.o: \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_assert.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h \
  /Users/martinschmidli/esp/esp-idf/components/lwip/include/lwip/lwip/mem.h \
  /Users/martinschmidli/esp/esp-idf/components/lwip/include/lwip/lwip/opt.h \
@@ -178,7 +178,7 @@ src/crypto/crypto_internal-rsa.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/assert.h:
 

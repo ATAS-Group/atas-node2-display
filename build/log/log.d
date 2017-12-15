@@ -14,7 +14,7 @@ log.o: /Users/martinschmidli/esp/esp-idf/components/log/./log.c \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/hal.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/config/core.h \
@@ -117,7 +117,7 @@ log.o: /Users/martinschmidli/esp/esp-idf/components/log/./log.c \
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/FreeRTOSConfig.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_config.h:
 

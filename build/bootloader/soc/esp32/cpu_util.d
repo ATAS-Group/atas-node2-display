@@ -7,7 +7,7 @@ esp32/cpu_util.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_assert.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/rtc_cntl_reg.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h:
 
@@ -23,5 +23,5 @@ esp32/cpu_util.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 /Users/martinschmidli/esp/esp-idf/components/soc/esp32/cpu_util.c:

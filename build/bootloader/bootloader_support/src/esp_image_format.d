@@ -14,7 +14,7 @@ src/esp_image_format.o: \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/efuse_reg.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log_internal.h \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h \
@@ -50,7 +50,7 @@ src/esp_image_format.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

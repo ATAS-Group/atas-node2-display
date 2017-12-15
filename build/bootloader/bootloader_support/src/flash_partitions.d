@@ -4,7 +4,7 @@ src/flash_partitions.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_err.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_flash_data_types.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -22,7 +22,7 @@ src/flash_partitions.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

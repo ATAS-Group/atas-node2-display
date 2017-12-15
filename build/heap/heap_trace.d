@@ -19,7 +19,7 @@ heap_trace.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/endian.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/param.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/heap/include/esp_heap_trace.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
@@ -126,7 +126,7 @@ heap_trace.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/param.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/heap/include/esp_heap_trace.h:
 

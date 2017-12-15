@@ -6,7 +6,7 @@ eth_phy/phy_lan8720.o: \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/_default_types.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/features.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_assert.h \
@@ -50,7 +50,7 @@ eth_phy/phy_lan8720.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/_intsup.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h:
 

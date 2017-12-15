@@ -1,6 +1,6 @@
 stack_check.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/./stack_check.c \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_system.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -57,7 +57,7 @@ stack_check.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/config/core-matmap.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/touch_channel.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_system.h:
 

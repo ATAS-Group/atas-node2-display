@@ -20,7 +20,7 @@ clk.o: /Users/martinschmidli/esp/esp-idf/components/esp32/./clk.c \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/sys/syslimits.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/endian.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/param.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h \
  /Users/martinschmidli/esp/esp-idf/components/log/include/esp_log.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/ets_sys.h \
@@ -101,7 +101,7 @@ clk.o: /Users/martinschmidli/esp/esp-idf/components/esp32/./clk.c \
 
 /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/param.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_attr.h:
 

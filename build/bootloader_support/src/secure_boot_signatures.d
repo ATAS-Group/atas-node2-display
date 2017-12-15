@@ -1,6 +1,6 @@
 src/secure_boot_signatures.o: \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/src/secure_boot_signatures.c \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/stdint.h \
  /Users/martinschmidli/esp/esp-idf/components/newlib/include/machine/_default_types.h \
@@ -46,7 +46,7 @@ src/secure_boot_signatures.o: \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/rom/sha.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_types.h
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h:
 

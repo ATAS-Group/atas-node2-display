@@ -1,5 +1,6 @@
 deps_config := \
 	/Users/martinschmidli/esp/esp-idf/components/app_trace/Kconfig \
+	/Users/martinschmidli/esp/projects/atas-node2-display/components/arduino/Kconfig \
 	/Users/martinschmidli/esp/esp-idf/components/aws_iot/Kconfig \
 	/Users/martinschmidli/esp/esp-idf/components/bt/Kconfig \
 	/Users/martinschmidli/esp/esp-idf/components/esp32/Kconfig \

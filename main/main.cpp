@@ -1,64 +1,80 @@
+// Display, Waveshare 1.54 200x200
+#include "GxEPD.h"
+#include "GxGDEW0154Z04.h"
+#include "GxIO.h"
+#include "GxIO_SPI.h"
+#include "images.h"
+
+// font
+#include "FreeSans12pt7b.h"
+#include "FreeSans9pt7b.h"
+
 #include <driver/gpio.h>
-#include <driver/spi_master.h>
 #include <esp_log.h>
 #include <stdio.h>
 #include <string.h>
-#include <freertos/FreeRTOS.h>
-#include <freertos/task.h>
-
 #include "sdkconfig.h"
 
-#include "epd1in54.h"
-#include "epdpaint.h"
-#include "imagedata.h"
+// Arduino, allowes GxEPD
+#include "Arduino.h"
 
-#define COLORED     0
-#define UNCOLORED   1
+// already declared in pins_arduino.h
+//static const uint8_t MOSI = 23; 	// blue
+//static const uint8_t SCK = 18; 	// yellow
+//static const uint8_t SS = 5; 		// orange
 
-//unsigned char image[1024];
-//Paint paint(image, 0, 0);    // width should be the multiple of 8 
+static const uint8_t PIN_DC =  17; 	// green
+static const uint8_t PIN_RESET = 16; 	// white
+static const uint8_t PIN_BUSY = 4; 		// violett
+
+GxIO_Class io(SPI, SS, PIN_DC, PIN_RESET); // arbitrary selection of 17, 16
+GxEPD_Class display(io, PIN_RESET, PIN_BUSY); // arbitrary selection of (16), 4
+
+const GFXfont* fontsans9 = &FreeSans9pt7b;
+const GFXfont* fontsans12 = &FreeSans12pt7b;
+  
+void initDisplay(){
+	display.init();
+}
+
+void displayAlarmOn(){
+	display.setFont(fontsans12);
+	display.setTextColor(GxEPD_BLACK);
+	display.setCursor(48, 175);
+	display.fillScreen(GxEPD_WHITE);
+	display.println("Alarm ON");
+	display.drawBitmap(alarmbell, 36, 16, 128, 128, GxEPD_BLACK);
+	display.update();
+}
 
 extern "C" void app_main()
 {    
-    printf("ATAS Node 2 - Display Example!\n");
+	// init Arduino subsystem
+	initArduino();
+	 
+	printf("ATAS Node 2 - Display Example!\n");
 	
-    Epd epd;
-    if (epd.Init(lut_full_update) != 0) {
-        printf("e-Paper init failed\n");
-    }
+	initDisplay();
+	displayAlarmOn();
+		
+	// IMAGE
+	//display.drawBitmap(img, x , y, width, height, color);
+	display.drawBitmap(avalanche, 36, 36, 128, 128, GxEPD_BLACK);
 	
-    unsigned char* frame_buffer = (unsigned char*)malloc(epd.width / 8 * epd.height);
+    // FONT Setup
+	display.setTextColor(GxEPD_BLACK);
+	display.setFont(fontsans9);
+		
+	// GPS Data
+	display.setCursor(10, 190);
+	display.println("Lng: 45.662101");
+	display.setCursor(10, 165);
+	display.println("Lat: 7.234189");
+		
+	display.update();
+	
 
-    Paint paint(frame_buffer, epd.width, epd.height);
-    paint.Clear(UNCOLORED);
-
-    paint.DrawStringAt(30, 14, "ATAS", &Font16, UNCOLORED);
-
-    /* Display the frame_buffer */
-    epd.SetFrameMemory(paint.GetImage(), 0, 0, paint.GetWidth(), paint.GetHeight());
-    epd.DisplayFrame();
-    epd.DelayMs(2000);
-	
-    epd.SetFrameMemory(IMAGE_DATA, 0, 0, epd.width, epd.height);
-    epd.DisplayFrame();
-    epd.SetFrameMemory(IMAGE_DATA, 0, 0, epd.width, epd.height);
-    epd.DisplayFrame();
-	
-	/*
-	paint.SetRotate(ROTATE_0);
-	paint.SetWidth(200);
-	paint.SetHeight(24);*/
-
-	/* For simplicity, the arguments are explicit numerical coordinates */
-	/*
-	paint.Clear(COLORED);
-	paint.DrawStringAt(30, 4, "Hello world!", &Font16, UNCOLORED);
-	epd.SetFrameMemory(paint.GetImage(), 0, 10, paint.GetWidth(), paint.GetHeight());
-	epd.DisplayFrame();
-	
-	if (epd.Init(lut_partial_update) != 0) {
-	  printf("e-Paper init failed");
-	  return;
-	} */   
 }
+
+
 

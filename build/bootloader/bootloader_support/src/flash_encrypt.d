@@ -3,7 +3,7 @@ src/flash_encrypt.o: \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_flash.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_err.h \
  /Users/martinschmidli/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_random.h \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include/esp_image_format.h \
  /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include/esp_flash_partitions.h \
@@ -33,7 +33,7 @@ src/flash_encrypt.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/spi_flash/include/esp_spi_flash.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/bootloader/../include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/bootloader/../include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/bootloader_support/include_priv/bootloader_random.h:
 

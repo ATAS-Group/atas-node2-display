@@ -15,7 +15,7 @@ dport_panic_highint_hdl.o: \
  /Users/martinschmidli/esp/esp-idf/components/freertos/include/freertos/xtensa_context.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/xtensa/xtruntime-frames.h \
  /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_panic.h \
- /Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h \
+ /Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/dport_reg.h \
  /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h
@@ -50,7 +50,7 @@ dport_panic_highint_hdl.o: \
 
 /Users/martinschmidli/esp/esp-idf/components/esp32/include/esp_panic.h:
 
-/Users/martinschmidli/esp/projects/atas-node2-display_raw/build/include/sdkconfig.h:
+/Users/martinschmidli/esp/projects/atas-node2-display/build/include/sdkconfig.h:
 
 /Users/martinschmidli/esp/esp-idf/components/soc/esp32/include/soc/soc.h:
 
